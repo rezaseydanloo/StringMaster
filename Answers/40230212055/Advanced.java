@@ -121,7 +121,7 @@ return sentence1[0];
         }
         str2[0]+=str2[size-1];
 
-
+//****
         return str2[0];
     }
 }
