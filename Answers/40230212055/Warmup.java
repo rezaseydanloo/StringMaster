@@ -78,7 +78,7 @@ public class   Warmup {
                 number3/=10;
 
             }
-
+//tamrin 2
             return  odd;
 
         }
