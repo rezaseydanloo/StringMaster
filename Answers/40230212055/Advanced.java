@@ -34,7 +34,7 @@ public class Advanced {
            sentence1[0]+=" ";
            sentence1[0]+=sentence1[i];
         }
-//**
+//***
 return sentence1[0];
 
 
